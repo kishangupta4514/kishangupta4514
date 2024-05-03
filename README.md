@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kishangupta4514&label=Profile%20views&color=0e75b6&style=flat" alt="kishangupta4514" /> </p>
 
-<p align="left"> <a href="https://twitter.com/kishangupta4514" target="blank"><img src="https://img.shields.io/twitter/follow/kishan_gupta_25?logo=twitter&style=for-the-badge" alt="kishangupta4514" /></a> </p>
+<p align="left"> <a href="https://twitter.com/kishangupta4514" target="blank"><img src="https://img.shields.io/twitter/follow/kishangupta4514?logo=twitter&style=for-the-badge" alt="kishangupta4514" /></a> </p>
 
 - 🌱 I’m currently learning **MERN Stack**
 
